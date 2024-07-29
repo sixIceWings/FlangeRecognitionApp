@@ -152,7 +152,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="FlangeFeatureRecongnition_globle.h" />
+    <ClInclude Include="FlangeFR_globle.h" />
     <ClInclude Include="FlangeFR.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="pch.h" />

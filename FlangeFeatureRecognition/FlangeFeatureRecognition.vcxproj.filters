@@ -21,7 +21,7 @@
     <ClInclude Include="pch.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="FlangeFeatureRecongnition_globle.h">
+    <ClInclude Include="FlangeFR_globle.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="FlangeFR.h">

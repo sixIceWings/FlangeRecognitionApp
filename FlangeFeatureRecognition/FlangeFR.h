@@ -1,5 +1,5 @@
 #pragma once
-#include "FlangeFeatureRecongnition_globle.h"
+#include "FlangeFR_globle.h"
 
 #include "acis.hxx"
 
