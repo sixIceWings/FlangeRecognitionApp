@@ -7,4 +7,5 @@ FlangeRecognitionApp::FlangeRecognitionApp(QWidget *parent)
 }
 
 FlangeRecognitionApp::~FlangeRecognitionApp()
-{}
+{
+}
